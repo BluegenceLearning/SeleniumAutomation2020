@@ -19,8 +19,8 @@ public class VerifyLoginPage extends BaseClass {
 
 	login.clickOnLogin(DataProviderFactory.getExcelDataProvider().getData(0,1,0), DataProviderFactory.getExcelDataProvider().getData(0,1,1));
 
-	test.log(Status.PASS, "Test Case is passed");
-	test.log(Status.INFO, "End of the Test Case");	
+	test.log(Status.PASS, "Test Case is passed 2020");
+	test.log(Status.INFO, "End of the Test Case 2020");	
 		
 			}
 	
